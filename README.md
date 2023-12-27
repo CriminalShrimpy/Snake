@@ -1,4 +1,4 @@
-# AI-Games
+# Snake
 AI solves games using deep learning, machine learning, reinforcement learning, etc.
 
 Steps before running:
